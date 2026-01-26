@@ -37,12 +37,17 @@ The reported accuracies in Table 1, 2, and 3 in our paper are the average over t
 If you find our method useful, please consider citing our paper:
 
   ```
-  @inproceedings{cpgnips2025,
-    title={Keep It on a Leash: Controllable Pseudo-label Generation Towards Realistic Long-Tailed Semi-Supervised Learning},
-    author={Hou, Yaxin and Jia, Yuheng and Han, Bo and Liu, Hui and Hou, Junhui},
-    booktitle={Advances in Neural Information Processing Systems},
-    volume={},
-    pages={},
-    year={2025}
-  }
-  ```
+  @inproceedings{CPG,
+  author       = {Yaxin Hou and
+                  Bo Han and
+                  Yuheng Jia and
+                  Hui Liu and
+                  Junhui Hou},
+  title        = {Keep It on a Leash: Controllable Pseudo-label Generation Towards Realistic
+                  Long-Tailed Semi-Supervised Learning},
+  booktitle    = {Advances in Neural Information Processing Systems (NeurIPS)},
+  volume       = {},
+  pages        = {},
+  year         = {2025}
+}
+```
