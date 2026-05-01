@@ -1,9 +1,11 @@
 # Keep It on a Leash: Controllable Pseudo-label Generation Towards Realistic Long-Tailed Semi-Supervised Learning
+
 Yaxin Hou, Bo Han, Yuheng Jia, Hui Liu, Junhui Hou, Keep It on a Leash: Controllable Pseudo-label Generation Towards Realistic Long-Tailed Semi-Supervised Learning, Advances in Neural Information Processing Systems, 2nd-7th December, San Diego, 2025.
 
 This is an official [PyTorch](http://pytorch.org) implementation for **Keep It on a Leash: Controllable Pseudo-label Generation Towards Realistic Long-Tailed Semi-Supervised Learning**.
 
 ## Introduction
+
 This code is based on the public and widely-used codebase [USB](https://github.com/microsoft/Semi-supervised-learning).
 
 What I've done is just adding our CPG algorithm in `semilearn/imb_algorithms/cpg`.
@@ -11,6 +13,7 @@ What I've done is just adding our CPG algorithm in `semilearn/imb_algorithms/cpg
 Also, I've made corresponding modifications to `semilearn/nets/` and several `__init__.py`.
 
 ## How to run
+
 For example, on CIFAR-10-LT with long-tailed labeled data ($\gamma_l=100$) and arbitrary unlabeled data($\gamma_u=100$)
 
 ```
