@@ -49,8 +49,8 @@ If you find our method useful, please consider citing our paper:
   title        = {Keep It on a Leash: Controllable Pseudo-label Generation Towards Realistic
                   Long-Tailed Semi-Supervised Learning},
   booktitle    = {Advances in Neural Information Processing Systems (NeurIPS)},
-  volume       = {},
-  pages        = {},
+  volume       = {38},
+  pages        = {118519--118549},
   year         = {2025}
 }
 ```
